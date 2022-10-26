@@ -1,0 +1,49 @@
+<form>
+        <input type="submit" value="Enviar formulario" />
+        <input type="reset" value="Limpiar formulario" />
+        <input type="button" value="Sin acciones" />
+    </form>
+
+
+<form>
+        <div>hombre</div>
+        <input type="radio" name="genero" value="hombre" />
+        <div>mujer</div>
+        <input type="radio" name="genero" value="mujer" />
+        <div>otro</div>
+        <input type="radio" name="genero" value="otro" />
+    </form>
+
+indent-rainbow
+
+
+gitLens, Auto close tag, auto rename tag, better comments, error lens, material icon theme, path intellisense - Estas extensiones les recomiendo
+
+<form>
+        <label for="nombre_apellido">Nombre:</label>
+        <input type="text"name="nombre_apellido" />
+
+        <label for="pellido">Apellido:</label>
+        <input type="text"name="apellido" />
+
+        <label for="edad">Edad:</label>
+        <input type="number"name="edad" />
+
+        <label for="email">Email:</label>
+        <input type="email"name="email" />
+    </form>
+
+https://www.w3schools.com/html/default.asp
+https://webcode.tools/generators/css/text-align
+<fieldset>
+            <legend>Talles</legend>
+            <form>
+                <select name="talles">
+                <option value="L">Chico</option>
+                <option value="M">Mediano</option>
+                <option value="S">Grande</option>
+                </select>
+                </form>
+        </fieldset>
+
+
